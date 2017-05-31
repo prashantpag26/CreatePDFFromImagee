@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_max_limit_btn">đuợc</string>
+    <string name="alert_max_limit_msg">Mỗi lần bạn chỉ có thể gửi %d ảnh.</string>
+    <string name="alert_max_limit_title">Vui lòng chỉ chọn %1$d ảnh!</string>
+    <string name="done"> làm xong </string>
+    <string name="file"> Hồ sơ </string>
+    <string name="file_size_exeeded"> kích thước tập tin vượt quá giới hạn tối đa của </string>
+    <string name="files"> Hồ sơ </string>
+    <string name="image"> hình ảnh </string>
+    <string name="images_tab"> hình ảnh </string>
+    <string name="max_limit_file"> Max hạn </string>
+    <string name="max_limit_reach_error">Mỗi lần bạn chỉ có thể gửi 10 ảnh.</string>
+    <string name="max_limit_reach_error_title">Chỉ có 10 hình ảnh vui lòng !</string>
+    <string name="mb"> mb</string>
+    <string name="no_media_file_available"> Không có tập tin phương tiện truyền thông có sẵn .</string>
+    <string name="pick_photos">Chọn Ảnh / Chọn nhiều Ảnh</string>
+    <string name="plaese_select_file"> Vui lòng chọn một tập tin</string>
+    <string name="please_wait_text"> Xin vui lòng chờ đợi</string>
+    <string name="refreshing"> Đang tải …</string>
+    <string name="select_album">Chọn một Album</string>
+    <string name="selected_file_size">  Kích thước phương tiện truyền thông được lựa chọn là : </string>
+    <string name="video"> Video </string>
+    <string name="videos_tab"> Video </string>
+</resources>

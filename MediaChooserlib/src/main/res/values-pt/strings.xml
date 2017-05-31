@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_max_limit_btn">ok</string>
+    <string name="alert_max_limit_msg">Você só pode enviar %d fotos de cada vez.</string>
+    <string name="alert_max_limit_title">Somente %1$d fotos!</string>
+
+    <string name="done"> feito </string>
+    <string name="file"> arquivo </string>
+    <string name="file_size_exeeded"> o tamanho do arquivo exceder o limite máximo de </string>
+    <string name="files"> arquivo </string>
+
+    <string name="image"> imagem </string>
+    <string name="images_tab"> imagens </string>
+
+    <string name="max_limit_file"> limite de Max </string>
+    <string name="max_limit_reach_error">Você só pode enviar 10 fotos de cada vez.</string>
+    <string name="max_limit_reach_error_title">Apenas 10 imagens por favor!</string>
+
+    <string name="mb"> mb</string>
+    <string name="no_media_file_available"> Nenhum arquivo disponível media</string>
+    <string name="pick_photos">Escolha a foto/Escolha as fotos</string>
+    <string name="plaese_select_file"> Selecione um arquivo</string>
+    <string name="please_wait_text"> por favor, aguarde</string>
+    <string name="refreshing"> Carregando&#8230;</string>
+    <string name="select_album">Selecione um álbum</string>
+    <string name="selected_file_size">  Tamanho selecionado mídia é : </string>
+
+    <string name="video"> vídeo </string>
+    <string name="videos_tab"> vídeos </string>
+
+</resources>

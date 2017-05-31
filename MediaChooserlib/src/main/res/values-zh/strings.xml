@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_max_limit_btn">好</string>
+    <string name="alert_max_limit_msg">一次只能发送 %d 张照片。</string>
+    <string name="alert_max_limit_title">请只选择%1$d 张照片！</string>
+
+    <string name="done"> 做完 </string>
+    <string name="file"> 文件 </string>
+    <string name="file_size_exeeded"> 文件大小超过了最大限制 </string>
+    <string name="files"> 文件 </string>
+
+    <string name="image"> 图像 </string>
+    <string name="images_tab"> 图片 </string>
+
+    <string name="max_limit_file"> 最大限制 </string>
+    <string name="max_limit_reach_error">一次只能发送 10 张照片。</string>
+    <string name="max_limit_reach_error_title">请仅10张</string>
+
+    <string name="mb"> MB</string>
+    <string name="no_media_file_available"> 没有可用的媒体文件</string>
+    <string name="pick_photos">挑选一张照片 / 挑选多张照片</string>
+    <string name="plaese_select_file"> 请选择一个文件</string>
+    <string name="please_wait_text"> 请稍候</string>
+    <string name="refreshing"> 正在加载……</string>
+    <string name="select_album">选择相册</string>
+    <string name="selected_file_size">  选定的文件大小为： </string>
+
+    <string name="video"> 视频 </string>
+    <string name="videos_tab"> 影片 </string>
+
+</resources>

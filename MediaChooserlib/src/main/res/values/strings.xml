@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_max_limit_btn">Okay</string>
+    <string name="alert_max_limit_msg">You can send only %1$d photos at a time.</string>
+    <string name="alert_max_limit_title">Only %1$d photos please!</string>
+
+    <string name="done"> Done </string>
+    <string name="file"> file. </string>
+    <string name="file_size_exeeded"> The file size exceeds the maximum limit of </string>
+    <string name="files"> files. </string>
+
+    <string name="image"> Image </string>
+    <string name="images_tab"> Images </string>
+
+    <string name="max_limit_file"> Max limit </string>
+    <string name="max_limit_reach_error">You can only send 10 photos at a time.</string>
+    <string name="max_limit_reach_error_title">Only 10 photos please!</string>
+
+    <string name="mb"> MB</string>
+    <string name="no_media_file_available"> No media file available.</string>
+    <string name="pick_photos">Pick photos</string>
+    <string name="plaese_select_file"> Please select a file.</string>
+    <string name="please_wait_text"> Please wait</string>
+    <string name="refreshing"> Refreshing</string>
+    <string name="select_album">Select an album</string>
+    <string name="selected_file_size">  Selected media size is : </string>
+
+    <string name="video"> Video </string>
+    <string name="videos_tab"> Videos </string>
+
+</resources>

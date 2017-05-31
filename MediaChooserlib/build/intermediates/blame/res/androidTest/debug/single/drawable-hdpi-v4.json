@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_loading.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_loading.png"
+    },
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_video_selected_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_video_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_camera_selected_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_camera_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_video.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_video.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_loading.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_loading.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_navigation_left_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_navigation_left_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_video_unselect_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_video_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_camera_selected_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_camera_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_video_selected_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_video_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_camera_unselect_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_camera_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_video_unselect_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_video_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_navigation_left_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_navigation_left_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_video.png",
+        "source": "/home/indianic/Documents/Demo Projects/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_video.png"
+    },
+    {
+        "merged": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_camera_unselect_from_media_chooser_header_bar.png",
+        "source": "/home/indianic/Downloads/CreatePDFFromImage/MediaChooserlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_camera_unselect_from_media_chooser_header_bar.png"
+    }
+]

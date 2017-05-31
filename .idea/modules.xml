@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreatePDFFromImage.iml" filepath="$PROJECT_DIR$/CreatePDFFromImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaChooser/MediaChooser.iml" filepath="$PROJECT_DIR$/MediaChooser/MediaChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaChooserlib/MediaChooserlib.iml" filepath="$PROJECT_DIR$/MediaChooserlib/MediaChooserlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
